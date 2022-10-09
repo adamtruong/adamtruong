@@ -1,5 +1,5 @@
  👋 Hi, I’m <strong>Truong Adam Nhat Anh<strong>
-  [![GitHub TrongDuong](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/GiangTrongDuong)
+  [![GitHub TrongDuong](https://img.shields.io/github/followers/adamtruong?label=follow&style=social)](https://github.com/adamtruong)
 ## Info
 
 > Currently Studying at Rmit Viet Nam
