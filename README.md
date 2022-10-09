@@ -1,8 +1,10 @@
- 👋 Hi, I’m <strong>Truong Adam Nhat Anh<strong> 
+
+👋 Hi, I’m <strong>Truong Adam Nhat Anh<strong> 
  [![GitHub TrongDuong](https://img.shields.io/github/followers/adamtruong?label=follow&style=social)](https://github.com/adamtruong)
  
 ## Info
-<iframe src="https://giphy.com/embed/GkD4U3VfiIbzcBhQNu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GkD4U3VfiIbzcBhQNu">via GIPHY</a></p>
+![72Oz](https://user-images.githubusercontent.com/92968350/194749223-0969746a-14d0-420f-86a1-9b6f4ccc406c.gif)
+
 - Currently Studying at Rmit Viet Nam 
 - "Photographs are the universal language of our era" 
 - UwU Coding gud 
