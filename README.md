@@ -1,5 +1,6 @@
  👋 Hi, I’m <strong>Truong Adam Nhat Anh<strong> 
  [![GitHub TrongDuong](https://img.shields.io/github/followers/adamtruong?label=follow&style=social)](https://github.com/adamtruong)
+ <iframe src="https://giphy.com/embed/GkD4U3VfiIbzcBhQNu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GkD4U3VfiIbzcBhQNu">via GIPHY</a></p>
 ## Info
 
 - Currently Studying at Rmit Viet Nam 
